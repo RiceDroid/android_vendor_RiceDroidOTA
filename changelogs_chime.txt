@@ -1,4 +1,0 @@
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Redmi 9t/Poco M3 (Chime 
-Device maintainer: Λｙａｎ
