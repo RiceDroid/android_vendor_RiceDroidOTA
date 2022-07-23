@@ -1,0 +1,30 @@
+{
+	"response": [
+		{
+			"maintainer": "Λｙａｎ",
+			"oem": "Redmi",
+			"device": "Redmi 9T",
+			"filename": "riceDroid-12.1-2022072309-chime-v3.5-PIXEL.zip",
+			"download": "https://sourceforge.net/projects/ricedroid/files/riceDroid-12.1-2022072309-chime-v3.5-PIXEL.zip/download",
+			"timestamp": 1657597731,
+			"md5": "e66a2b08f15e83279c07460803d2e7c6",
+			"sha1": "49554c5354f507d7d172172e2bd675a181da412e"
+,
+			"size": 1755001219,
+			"version": "3.5",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/Dhruvesh16/device_realme_RMX1921/tree/ricedroid",
+			"common-dt": "",
+			"kernel": "https://github.com/Dhruvesh16/android_kernel_realme_RMX1921/tree/
+11"
+		}
+	]
+}
