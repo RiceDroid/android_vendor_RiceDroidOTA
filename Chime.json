@@ -1,0 +1,30 @@
+{
+	"response": [
+		{
+			"maintainer": "Λｙａｎ",
+			"oem": "Redmi",
+			"device": "Redmi 9T",
+			"filename": "riceDroid-12.1-2022071209-RMX1921-v3.0-PIXEL.zip",
+			"download": "https://drive.google.com/uc?id=11jtakVYh-rVWvp9_d67FBDegiT0OZpjE&export=download",
+			"timestamp": 1657597731,
+			"md5": "4e2a28788165172b2e888d5993e6b11f",
+			"sha256": "81938d41c891f53976a08c1b8b3be5a8362d0d26bf3faad263d0497e6e379895"
+,
+			"size": 1755001219,
+			"version": "3.5",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/Dhruvesh16/device_realme_RMX1921/tree/ricedroid",
+			"common-dt": "",
+			"kernel": "https://github.com/Dhruvesh16/android_kernel_realme_RMX1921/tree/
+11"
+		}
+	]
+}
